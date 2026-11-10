@@ -3,10 +3,10 @@
 5:I[39756,["$4"],"default"]
 6:I[37457,["$4"],"default"]
 b:"$Sreact.suspense"
-c:"/_next/static/chunks/386c9niwt_j-h.js"
+c:"/_next/static/chunks/0ls3w7kj-puxq.js"
 d:"/_next/static/chunks/32mzsipo_3pqu.js"
 e:"/_next/static/chunks/1kooqanzkb9m8.js"
-f:"/_next/static/chunks/3w4z8c1y4_2i7.js"
+f:"/_next/static/chunks/1e-j3yctxspiz.js"
 10:"/_next/static/chunks/2go-1v400cb41.js"
 11:"/_next/static/chunks/37hf94trmx5gx.js"
 12:"/_next/static/chunks/0er9dc_qscrpf.js"
@@ -26,7 +26,7 @@ f:"/_next/static/chunks/3w4z8c1y4_2i7.js"
 a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$b",null,{"children":["$","$L16",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3wllm-d1sqywt.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3s35md1jonuav.js","async":true}]],["$","$L17",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$9"}}]]
 2:[["children",{"s":"login","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"vi","s":[]},"h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mekolink — Sàn B2B thực phẩm & đồ uống"}],["$","meta","1",{"name":"description","content":"Sàn B2B kết nối nhà xuất nhập khẩu thực phẩm & đồ uống với đối tác logistics, tư vấn và bảo hiểm tại Việt Nam, Trung Quốc và Úc."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$9"}},"a":"$@20","u":"$@21","b":"HMWdXTNG0gwNjTG0hDY0A"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mekolink Ecommerce — Sàn B2B thực phẩm & đồ uống"}],["$","meta","1",{"name":"description","content":"Sàn B2B kết nối nhà xuất nhập khẩu thực phẩm & đồ uống với đối tác logistics, tư vấn và bảo hiểm tại Việt Nam, Trung Quốc và Úc."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0p2ckoo4rejs6.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.09idldqfkxs04.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.05yylef8ai2a8.png","sizes":"180x180","type":"image/png"}],["$","$L1e","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$9"}},"a":"$@20","u":"$@21","b":"6Kk0Zg8N9_WOIYaTbC8Rs"}
 18:null
 21:true
 9:300
