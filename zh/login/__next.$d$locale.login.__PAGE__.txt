@@ -13,7 +13,7 @@ f:"/_next/static/chunks/3_4bx6yxug308.js"
 13:"/_next/static/chunks/0sdugreegbw00.js"
 14:"/_next/static/chunks/34-c_6-7ulhom.js"
 15:"/_next/static/chunks/245ubhfutkw7t.js"
-16:"/_next/static/chunks/0prtbryzmrisk.js"
+16:"/_next/static/chunks/36kyxy-o8sozp.js"
 17:I[9827,["$c","$d","$e","$f","$10","$11","$12","$13","$14","$15","$16"],"LoginView"]
 18:I[97367,["$4"],"OutletBoundary"]
 1b:"ViewportBoundary"
@@ -24,10 +24,10 @@ f:"/_next/static/chunks/3_4bx6yxug308.js"
 8:X
 8:C
 9:X
-a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$b",null,{"children":["$","$L17",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/245ubhfutkw7t.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0prtbryzmrisk.js","async":true}]],["$","$L18",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$9"}}]]
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$b",null,{"children":["$","$L17",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/245ubhfutkw7t.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/36kyxy-o8sozp.js","async":true}]],["$","$L18",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$9"}}]]
 2:[["children",{"s":"login","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":[]},"h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mekolink Ecommerce — 食品饮料B2B平台"}],["$","meta","1",{"name":"description","content":"连接越南、中国和澳大利亚食品饮料进出口商与物流、咨询及保险合作伙伴的B2B平台。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0p2ckoo4rejs6.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.09idldqfkxs04.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.05yylef8ai2a8.png","sizes":"180x180","type":"image/png"}],["$","$L1f","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$9"}},"a":"$@21","u":"$@22","b":"ygG3BFEs4xAKzssi3jsH2"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mekolink Ecommerce — 食品饮料B2B平台"}],["$","meta","1",{"name":"description","content":"连接越南、中国和澳大利亚食品饮料进出口商与物流、咨询及保险合作伙伴的B2B平台。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0p2ckoo4rejs6.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.09idldqfkxs04.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.05yylef8ai2a8.png","sizes":"180x180","type":"image/png"}],["$","$L1f","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$9"}},"a":"$@21","u":"$@22","b":"fMSngfVDDplu9KxOAF7Ev"}
 19:null
 22:true
 9:300
